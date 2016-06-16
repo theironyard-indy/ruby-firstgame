@@ -1,0 +1,6 @@
+{
+  "name": "Free Crash Course: Build Your First Game",
+  "tagline": "",
+  "body": "The Build Your First Game course will cover the Ruby programming language from the ground up to a functional command line game or two. \r\n\r\nAlong the way, you'll learn about:\r\n\r\n- Variables \r\n- Classes  \r\n- Functions  \r\n- Blocks  \r\n- Data Structures  \r\n- Handling user input\r\n\r\nOf note: We won't be delving into Ruby on Rails, the popular Ruby-based web application framework. Ruby itself is fun enough to fill an evening.\r\n\r\n### Your presenter\r\n\r\nChris Vannoy is a Backend Engineering Instructor at The Iron Yard's Indianapolis campus. He's been developing in Ruby (and Rails) for nine years - since the early days of Rails.\r\n\r\n### What you'll need\r\n\r\nWe're going to be using [Cloud9](https://c9.io/) for this workshop so we can all get up and running with a development environment quickly.\r\n\r\nGo ahead and sign up for a free account, but we'll walk through setting up your development environment in Cloud9 in the workshop itself.\r\n\r\nMacs, PC, Linux boxes are all welcome. Come as you are (computer-wise).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
