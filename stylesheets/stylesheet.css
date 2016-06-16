@@ -34,7 +34,7 @@ a {
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
 
-.btn-success {
+.btn-success, .btn-success:hover {
   background-color: #159957;
 }
 
